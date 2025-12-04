@@ -106,5 +106,4 @@ Core content:
 
 ## 5. Contact
 
-- Email: `your-email@example.com`  
-- LinkedIn: `https://www.linkedin.com/in/<your-linkedin-id>/`
+- Email：`dksitn@example.com`  
