@@ -106,4 +106,4 @@ Core content:
 
 ## 5. Contact
 
-- Email：`dksitn@example.com`  
+- Email：`dksitn@gmail.com`  
