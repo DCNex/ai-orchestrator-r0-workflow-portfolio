@@ -112,4 +112,4 @@
 
 ## 5. 聯絡方式（Contact）
 
-- Email：`dksitn@example.com`  
+- Email：`dksitn@gmail.com`  
