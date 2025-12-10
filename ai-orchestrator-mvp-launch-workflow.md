@@ -1,4 +1,4 @@
-# AI Orchestrator MVP→上線工作流指南（系列文 · 第 3 篇）
+# AI Orchestrator MVP→上線工作流指南
 
 English | [繁體中文 / Traditional Chinese](./ai-orchestrator-mvp-launch-workflow-zh-TW.md)
 
