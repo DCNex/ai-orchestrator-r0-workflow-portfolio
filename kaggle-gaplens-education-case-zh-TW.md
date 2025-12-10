@@ -1,9 +1,3 @@
-
----
-
-## （English version）
-
-```markdown
 # Series · Part 4: Kaggle Education Case – GapLens Learning Loss Scanner  
 An AI Orchestrator case study with Gemini 3 Pro + Google AI Studio
 
