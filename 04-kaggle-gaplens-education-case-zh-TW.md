@@ -358,8 +358,3 @@ Gemini 3 Pro 的任務：
 - 用 AI 調度串起多工具，而不是把所有責任交給單一模型。  
 - 在每次實驗結束前，優先回收可重用的架構與方法，再決定是否繼續投資該產品。
 
-相關篇章：
-
-- 第 1 篇：`01-r0-ai-orchestrator-methodology-zh-TW.md`  
-- 第 2 篇：`02-ai-orchestrator-communication-map-zh-TW.md`  
-- 第 3 篇：`03-ai-orchestrator-mvp-launch-workflow-zh-TW.md`
